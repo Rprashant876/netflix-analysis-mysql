@@ -56,10 +56,10 @@ Basic filtering, sorting, and aggregation.
 | 19 | Count Movies vs TV Shows per country | `CASE`, `SUM`, `GROUP BY` |
 | 20 | Top 5 directors with most content | `GROUP BY`, `DENSE_RANK`, `CTE` |
 
-### 🔄 Intermediate Level (Questions 21–42)
+###  Intermediate Level (Questions 21–42)
 *In Progress — Group By insights, string operations, date handling, conditional logic.*
 
-### 🚀 Advanced Level (Questions 43–75)
+###  Advanced Level (Questions 43–75)
 *Upcoming — Window functions, subqueries, complex business case questions.*
 
 ---
@@ -105,8 +105,6 @@ netflix-analysis-mysql/
 - [x] Beginner Level (Q1–Q20)
 - [ ] Intermediate Level (Q21–Q42)
 - [ ] Advanced Level (Q43–Q75)
-- [ ] Add screenshots of query outputs
-- [ ] Build a dashboard in Power BI / Tableau (optional)
 
 ---
 
